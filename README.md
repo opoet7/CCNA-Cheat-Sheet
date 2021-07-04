@@ -1001,3 +1001,10 @@ Here I'll collect crazy default behaviors and how to fix them, I guess..
 | # ssh -l h.acker 1.2.3.4         | SSH to `1.2.3.4` using `h.acker` user         |
 | (config-if)# duplex {full, auto} | Set duplex mode or set it to autonegotiation. |
 | (config-if)# speed {100, auto}   | Set speed or set it to autonegotiation.       |
+	
+## PoE
+
+| Command                          | Description                                   |
+|:---------------------------------|:----------------------------------------------|
+| # show power inline              | Show ports power consumption	           |
+| # show cdp neighbors detail	   | Show PoE connected device spec		   |
