@@ -1008,3 +1008,13 @@ Here I'll collect crazy default behaviors and how to fix them, I guess..
 |:---------------------------------|:----------------------------------------------|
 | # show power inline              | Show ports power consumption	           |
 | # show cdp neighbors detail	   | Show PoE connected device spec		   |
+	
+## Terminal Server
+
+| Command                          | Description                                   |
+|:---------------------------------|:----------------------------------------------|
+| # show session                   | Show sessions	           		   |
+| # 1				   | Connect to session number 1		   |
+| # s1				   | Connect to device s1			   |
+
+
